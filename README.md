@@ -1,0 +1,1 @@
+This project showcase visualizing a dataset containing categorical and numerical data, and also build a pipeline that deals with missing data, imbalanced data and predicts a binary outcome. Click [here](https://jessie-jingwen-lin.github.io/2021/07/02/data-scientists-leavingjobs-analytics/) to get more information and see the post I wrote for the project.
